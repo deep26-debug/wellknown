@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.inforens.app",
+      "sha256_cert_fingerprints": [
+        "69:84:CE:C5:BC:94:F9:7E:DB:D3:47:82:3E:79:A8:92:1C:E5:C7:B1:2A:01:9B:EA:EE:FC:9D:DB:6F:3D:E4:EA",
+        "D7:06:D5:53:A0:37:DF:15:73:CB:7D:2A:76:46:47:A6:07:30:4D:F6:10:EB:2C:8A:71:8B:69:50:F4:D1:F5:4E"
+      ]
+    }
+  }
+]
